@@ -251,17 +251,6 @@ def main():
             st.dataframe(rec_auto)#['input','output','Answer Relevance','Context Relevance','Groundedness'])
             
 
-        
-
-            
-
-
-            
-            
-            
-            
-
-
     # # Perform vector indexing
     # index = vector_indexing(document)
 
